@@ -1,7 +1,7 @@
 ## Oiii! Eu sou o Samuel Grontoski!
 
 - Sou Técnico Agrimensor formado pela UTFPR
-- Atuelmente estou estudando sobre desenvolvimento Front-end
+- Atualmente estou estudando sobre desenvolvimento Front-end
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samuelGrontoski&show_icons=true&theme=blue-green&include_all_comits=true$count_private=true"/>
