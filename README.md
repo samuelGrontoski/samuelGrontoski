@@ -1,6 +1,7 @@
 ## Oiii! Eu sou o Samuel Grontoski!
 
 - Sou Técnico Agrimensor formado pela UTFPR
+- Estudante do Curso de Engenharia de Computação na UTFPR
 - Atualmente estou estudando sobre desenvolvimento Front-end
 
 <div>
