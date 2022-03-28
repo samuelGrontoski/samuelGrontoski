@@ -1,4 +1,4 @@
-## Oiii! Eu sou o Samuel Grontoski!
+## Olá! Me chamo Samuel Grontoski!
 
 - Sou Técnico Agrimensor formado pela UTFPR
 - Estudante do Curso de Engenharia de Computação na UTFPR
@@ -9,6 +9,15 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelGrontoski&layout=compact&langs_count=16&theme=blue-green"/>
 </div>
   
+### Skills:
+
+<div>
+  <a><img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"></a>
+  <a><img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"></a>
+  <a><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></a>
+  <a><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
+</div>
+<br>
 <div>
   <a href="https://instagram.com/samuka_art3/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://twitter.com/samuka_art3/" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
