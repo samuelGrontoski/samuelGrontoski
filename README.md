@@ -1,8 +1,4 @@
-## Olá! Me chamo Samuel Grontoski!
-
-- Sou Técnico Agrimensor formado pela UTFPR
-- Estudante do Curso de Engenharia de Computação na UTFPR
-- Atualmente estou estudando sobre desenvolvimento Front-end
+## Olá! Me chamo Samuel Grontoski, estudante do Curso de Engenharia de Computação na UTFPR!
 
 <div align="center">
   <a href="https://github.com/samuelGrontoski">
