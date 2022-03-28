@@ -1,4 +1,4 @@
-## Olá! Me chamo Samuel Grontoski, estudante do Curso de Engenharia de Computação na UTFPR!
+## Olá! Eu sou o Samuel Grontoski, estudante do curso de Engenharia de Computação na UTFPR!
 
 <div align="center">
   <a href="https://github.com/samuelGrontoski">
