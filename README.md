@@ -9,7 +9,7 @@
   <img align="center" alt="Samuka-Js" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg">
   <img align="center" alt="Samuka-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Samuka-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Samuka-C++" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
+  <img align="center" alt="Samuka-C++" height="30" width="40" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png">
 </div>
 
   ##
