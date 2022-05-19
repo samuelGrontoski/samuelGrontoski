@@ -1,5 +1,4 @@
 ## Olá! Eu sou o Samuel Grontoski, estudante do curso de Engenharia de Computação na UTFPR!
-
 <div align="center">
   <a href="https://github.com/samuelGrontoski">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samuelGrontoski&show_icons=true&theme=github_dark&include_all_comits=true$count_private=true"/>
