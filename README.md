@@ -7,7 +7,7 @@
   
   ##
     
-<h3 align="left">Programming Languages:</h3>
+<h3 align="left">Programming Languages and Tools:</h3>
 <div style="display: inline_block"><br>
   <img align="center" alt="Samuka-C" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Samuka-C#" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
@@ -20,7 +20,6 @@
    <a href="mailto:contatosamuelgrontoski@gmail.com" target="_blank"><img align="center" src="https://logosmarcas.net/wp-content/uploads/2020/11/Gmail-Logo.png" target="_blank" height="28" width="48" /></a>
   <a href="https://instagram.com/samuel_grontoski/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
   <a href="https://www.linkedin.com/in/samuel-grontoski-133569240/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/samuel_grontoski?hr_r=1" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" /></a>
   
   ##
   
