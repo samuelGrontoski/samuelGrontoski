@@ -1,28 +1,19 @@
-## Olá! Eu sou o Samuel Grontoski, estudante do curso de Engenharia de Computação na UTFPR!
-<div align="center">
-  <a href="https://github.com/samuelGrontoski">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samuelgrontoski&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelGrontoski&layout=compact&langs_count=7&theme=github_dark"/>
-</div>
-  
-  ##
-    
-<h3 align="left">Programming Languages and Tools:</h3>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Samuka-C" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="Samuka-C#" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
+# 👋 Hi there
+I'm Samuel Grontoski, a student of the Computer Engineering course at UTFPR.
 
-  ##
+# 💻 Tech Stack    
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-<h3 align="left">Connect with me:</h3>
-<div align="left">
-   <a href="mailto:contatosamuelgrontoski@gmail.com" target="_blank"><img align="center" src="https://logosmarcas.net/wp-content/uploads/2020/11/Gmail-Logo.png" target="_blank" height="28" width="48" /></a>
-  <a href="https://instagram.com/samuel_grontoski?igshid=ZDdkNTZiNTM=/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
-  <a href="https://www.linkedin.com/in/samuel-grontoski-133569240/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
-  
-  ##
+# 🌐 Socials:
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:contatosamuelgrontoski@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/samuel_grontoski?igshid=ZDdkNTZiNTM=/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-grontoski-133569240/)
+
+
+# 📊 GitHub Stats:
+<img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=samuelgrontoski&theme=neon&hide_border=false&include_all_commits=false&count_private=false"  width="364px" />                    <img src="https://github-readme-streak-stats.herokuapp.com/?user=samuelgrontoski&theme=neon&hide_border=false"  width="400px" />
+
+
+
+  ![](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=samuelgrontoski&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
   
   ![Snake animation](https://github.com/samuelGrontoski/samuelGrontoski/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
