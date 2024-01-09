@@ -45,10 +45,10 @@
 
 ---
 
-![](./4-productive-time.svg)
+![](./3-stats.svg)
 
 ```
-![](https://raw.githubusercontent.com/samuelGrontoski/samuelGrontoski/main/profile-summary-card-output/vue/4-productive-time.svg)
+![](https://raw.githubusercontent.com/samuelGrontoski/samuelGrontoski/main/profile-summary-card-output/vue/3-stats.svg)
 ```
 
     
