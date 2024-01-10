@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/samuelGrontoski/samuelGrontoski/main/profile-summary-card-output/calm/4-productive-time.svg)
+```
+
+    
