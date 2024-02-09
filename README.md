@@ -22,14 +22,15 @@
 <p align="left">
   <a href="https://www.instagram.com/samuel_grontoski/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
   <a href="https://www.linkedin.com/in/samuel-grontoski/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a>
-  <a href = "mailto:contatosamuelgrontoski@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alr="Email"></a>
+  <a href = "mailto:contatosamuelgrontoski@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alr="Email"></a>
 </p>
 
 
 # ```📊 GitHub Stats```
-<p>
-  <img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=samuelGrontoski&theme=neon&hide_border=false&include_all_commits=true&count_private=true"  height="150em" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samuelGrontoski&theme=neon" height="150em" />
-  <img src="https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=samuelGrontoski&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-</p>
+<div align="center" justify-items="space-between">
+       <img src="https://github-readme-stats.vercel.app/api?username=samuelGrontoski&rank_icon=github&theme=github_dark&include_all_commits=true&count_private=true&locale=pt-br" width="34%"/> 
+       <img src="https://github-readme-streak-stats.herokuapp.com/?user=samuelGrontoski&theme=github-dark-blue&locale=pt_BR" width="37.5%"/> 
+       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelGrontoski&layout=compact&theme=github_dark&locale=pt-br" width="27%"/>
+</div>
+<img width='100%' src="https://github-readme-activity-graph.vercel.app/graph?username=samuelGrontoski&theme=github-dark&include_all_commits=true&count_private=true" />
 
