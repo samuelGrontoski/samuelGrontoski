@@ -15,8 +15,6 @@
   <img height="30" width="30" src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" alt="C">
   <img height="30" width="30" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="VSCode"> 
   <img height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png?20200221181224" alt="Notion">
-  <img height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Open_Broadcaster_Software_Logo.png/600px-Open_Broadcaster_Software_Logo.png?20190328042108" alt="OBS">
-  <img height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/4/4d/DaVinci_Resolve_Studio.png" alt="DaVinci Resolve">
 </p>
 
 # ```🌐 Socials```
