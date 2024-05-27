@@ -1,5 +1,6 @@
 # ```👋 Hi there```
 ***I'm Samuel Grontoski, a student of the Computer Engineering at UTFPR and Full Stack Developer.***
+  <img height="30" width="40" src="https://media.tenor.com/SH31iAEWLT8AAAAj/pikachu-running.gif" alt="Pikachu">
 
 # ```💻 Tech Stack```   
 
@@ -20,6 +21,7 @@
   <img height="30" width="30" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" alt="Figma">
   <img height="30" width="30" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="VSCode"> 
   <img height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png?20200221181224" alt="Notion">
+  <img height="30" width="30" src="https://media.tenor.com/DrdU6bRAfusAAAAj/bulbasaur-pokemon.gif" alt="Bulbasaur">
 </div>
 
 
