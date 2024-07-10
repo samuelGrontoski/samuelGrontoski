@@ -34,7 +34,7 @@
 
 # ```📊 GitHub Stats```
 <div align="center" justify-items="space-between">
-       <img src="https://github-readme-stats.vercel.app/api?username=samuelGrontoski&rank_icon=github&theme=github_dark&include_all_commits=true&count_private=true&locale=pt-br" width="34%"/> 
+       <img src="https://github-readme-stats.vercel.app/api?username=samuelGrontoski&rank_icon=github&theme=github_dark&include_all_commits=true&locale=pt-br" width="34%"/> 
        <img src="https://github-readme-streak-stats.herokuapp.com/?user=samuelGrontoski&theme=github-dark-blue&locale=pt_BR" width="37.5%"/> 
        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelGrontoski&layout=compact&theme=github_dark&locale=pt-br" width="27%"/>
 </div>
