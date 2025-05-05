@@ -1,5 +1,5 @@
 # ```👋 Olá```
-***Sou Samuel Grontoski, estudante de Engenharia de Computação pela UTFPR e Desenvolvedor Full Stack.***
+***Me chamo Samuel Grontoski, sou estudante de Engenharia de Computação pela UTFPR e Desenvolvedor Full Stack.***
   <img height="30" width="40" src="https://media.tenor.com/SH31iAEWLT8AAAAj/pikachu-running.gif" alt="Pikachu">
 
 # ```💻 Tech Stack```   
