@@ -2,8 +2,8 @@
 ***Me chamo Samuel Grontoski, sou estudante de Engenharia de Computação pela UTFPR e Desenvolvedor Full Stack.***
   <img height="30" width="40" src="https://media.tenor.com/SH31iAEWLT8AAAAj/pikachu-running.gif" alt="Pikachu">
 
-# ```💻 Tech Stack```   
-
+# ```💻 Minhas Habilidades```   
+      
 ## Frontend
 <div style="text-align: center">
   <img height="30" width="30" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML5">
@@ -31,13 +31,13 @@
   <img height="30" width="30" src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png" alt="Firebase">
 </div>
 
-## Game Development
+## Desenvolvimento de Jogos
 <div style="text-align: center">
   <img height="30" width="30" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" alt="C#">
   <img height="30" width="30" src="https://user-images.githubusercontent.com/25181517/193427941-9437dbbe-376f-40dc-9573-0ef5c02a26a7.png" alt="Unity">
 </div>
 
-## Other Tools
+## Outras Ferramentas
 <div style="text-align: center">
   <img height="30" width="30" src="https://user-images.githubusercontent.com/25181517/192108895-20dc3343-43e3-4a54-a90e-13a4abbc57b9.png" alt="Android Studio">
   <img height="30" width="30" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker">
@@ -46,10 +46,10 @@
 </div>
 <br>
 
-# ```🌐 Socials```
+# ```🌐 Contatos```
 <p align="left">
-  <a href="https://www.instagram.com/samuel_grontoski/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="https://www.linkedin.com/in/samuel-grontoski/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a>
+  <a href="https://www.instagram.com/samuel_grontoski/"><img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://www.linkedin.com/in/samuel-grontoski/"><img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a>
   <a href = "mailto:contatosamuelgrontoski@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alr="Email"></a>
 </p>
 <br>
@@ -62,3 +62,6 @@
 </div>
 <img width='100%' src="https://github-readme-activity-graph.vercel.app/graph?username=samuelGrontoski&theme=github-dark&include_all_commits=true&count_private=true" />
 
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=samuelGrontoski&&style=flat-square" align="center" />
+</div>  
