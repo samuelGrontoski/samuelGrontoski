@@ -35,6 +35,7 @@
 <div style="text-align: center">
   <img height="30" width="30" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" alt="C#">
   <img height="30" width="30" src="https://user-images.githubusercontent.com/25181517/193427941-9437dbbe-376f-40dc-9573-0ef5c02a26a7.png" alt="Unity">
+  <img height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Logo_Aseprite.svg/1200px-Logo_Aseprite.svg.png" alt="Aseprite">
 </div>
 
 ## Outras Ferramentas
