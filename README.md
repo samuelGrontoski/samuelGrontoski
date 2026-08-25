@@ -10,9 +10,9 @@
   <img height="30" width="30" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS3"">
   <img height="28" width="28" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript">
   <img height="30" width="30" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript">
-  <img height="30" width="30" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="Tailwind CSS">
   <img height="30" width="30" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React">
   <img height="30" width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/angular.png" alt="Angular">
+  <img height="30" width="30" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="Tailwind CSS">
 </div>
 
 ## Backend
@@ -54,15 +54,3 @@
   <a href = "mailto:contatosamuelgrontoski@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alr="Email"></a>
 </p>
 <br>
-
-# ```📊 GitHub Stats```
-<div align="center" justify-items="space-between">
-       <img src="https://github-readme-stats.vercel.app/api?username=samuelGrontoski&rank_icon=github&theme=github_dark&include_all_commits=true&locale=pt-br" width="34%"/> 
-       <img src="https://github-readme-streak-stats.herokuapp.com/?user=samuelGrontoski&theme=github-dark-blue&include_all_commits=true&locale=pt_BR" width="37.5%"/> 
-       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelGrontoski&layout=compact&theme=github_dark&include_all_commits=true&locale=pt-br" width="27%"/>
-</div>
-<img width='100%' src="https://github-readme-activity-graph.vercel.app/graph?username=samuelGrontoski&theme=github-dark&include_all_commits=true&count_private=true" />
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=samuelGrontoski&&style=flat-square" align="center" />
-</div>  
